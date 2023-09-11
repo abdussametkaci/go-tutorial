@@ -1,0 +1,7 @@
+Boron      5          10.810    
+Silicon    14         28.085    
+Germanium  32         74.630    
+Arsenic    33         74.921    
+Antimony   51         121.760   
+Tellerium  52         127.600   
+Polonium   84         209.000   

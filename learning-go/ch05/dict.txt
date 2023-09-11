@@ -1,0 +1,5 @@
+morning
+apple
+banana
+yellow
+red
